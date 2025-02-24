@@ -1,4 +1,4 @@
-### FRANÇAIS
+### - FRANÇAIS
 
 # 🚗 Automatisation des Wheelspins dans Forza Horizon 5
 
@@ -55,7 +55,7 @@ Le script appuiera automatiquement sur "Entrée" toutes les secondes et détecte
 ---
 
 
-### ENGLISH
+### - ENGLISH
 
 
 # 🚗 Automating Wheelspins in Forza Horizon 5
