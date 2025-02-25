@@ -33,8 +33,8 @@ def press_enter():
 
 def sell_car():
     # Simule l'appui sur la touche pour vendre la voiture
-    pyautogui.press('down', presses=2)  # Se déplacer vers la 3ème option
-    pyautogui.press('down', presses=2)
+    pyautogui.press('down', presses=1)  # Se déplacer vers la 3ème option
+    pyautogui.press('down', presses=1)
     pyautogui.press('enter')
 
 def main():
@@ -46,7 +46,7 @@ def main():
             press_enter()
         
         # Attendre un peu entre chaque vérification
-        time.sleep(1)
+        time.sleep(0.5)
 
 if __name__ == "__main__":
     main()
